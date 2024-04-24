@@ -1,7 +1,7 @@
 # <img src="src/main/resources/asset/connect-four.png" alt="drawing" width="50"/> Connect-4 Assignment
 
 ### How to use this repo
-* `git clone https://github.com/Ranjith-Suranga/connect-four-assignment.git`
+* `git clone https://github.com/RajasShah/connect-four-assignment.git`
 * Open the `pom.xml` via IntelliJ IDEA
 * Make sure to the open it as a project, if prompt
 * Reload the `pom.xml` file via **Maven Tool Window**
